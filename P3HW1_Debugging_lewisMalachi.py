@@ -1,5 +1,5 @@
-# I was supposed to put a comment here
-# My Last Name
+
+# Malachi Lewis 
 
 
 # This program takes a number grade , determines average and displays letter grade for average.
